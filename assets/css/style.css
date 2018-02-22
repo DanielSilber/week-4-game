@@ -1,0 +1,65 @@
+
+body {
+    background-color: aquamarine
+}
+#wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+h1 {
+    background-color: blueviolet;
+    color: orange;
+    width: 50%;
+    text-align: center;
+    clear: both;
+    padding: 20px;
+    margin-top: 25px;
+    border: solid 2px;
+    
+}
+
+#gameplay {
+    background-color: mistyrose;
+    width: 50%;
+    clear: both;
+    padding: 20px;
+    margin-top: 25px;
+    border: solid 2px;
+}
+
+#matchNumber {
+    background-color: salmon;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: solid 2px;
+}
+#score {
+    background-color: salmon;
+    padding: 20px;
+    margin-top: 25px;
+    border: solid 2px;
+    width: 30%;
+
+}
+
+
+
+.crystal-image {
+    width: 300px;
+    height: 300px;
+}
+
+.crystal {
+    border: 1px;
+    height: 200px;
+    width: 200px;
+
+}
+
+.cystals {
+    justify-content: space-between;
+    border: 1px;
+    align-items: center;
+}
